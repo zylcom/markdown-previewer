@@ -1,0 +1,20 @@
+.toolbar-wrapper {
+  width: 100%;
+  background: #0a1128;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.icon {
+  color: #fff;
+  width: 40px;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}

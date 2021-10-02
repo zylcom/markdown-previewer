@@ -1,0 +1,15 @@
+.preview-wrapper {
+  overflow: scroll;
+  background: #dff9fb;
+  height: 492px;
+}
+
+.maximized {
+  height: auto;
+  overflow: unset;
+  margin-bottom: 20px;
+}
+
+#preview img {
+  max-width: 100%;
+}
